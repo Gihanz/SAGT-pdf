@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+  <classpathentry kind="src" path="src" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/com/itextpdf/itextpdf/5.5.13.1/itextpdf-5.5.13.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/JSON4J_Apache/5.2.1/JSON4J_Apache-5.2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/Jace/5.2.1/Jace-5.2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/pe/5.2.1/pe-5.2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/pe3pt/5.2.1/pe3pt-5.2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/peResources/5.2.1/peResources-5.2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/xlxpScanner/5.2.1/xlxpScanner-5.2.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/FileNet/xlxpScannerUtils/5.2.1/xlxpScannerUtils-5.2.1.jar"/>
+</classpath>
