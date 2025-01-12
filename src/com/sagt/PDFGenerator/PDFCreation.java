@@ -35,7 +35,7 @@ import com.itextpdf.text.pdf.PdfWriter;
 
 public class PDFCreation {
 
-	public static Logger log = Logger.getLogger("com.boc.connector.CMConnector");
+	public static Logger log = Logger.getLogger("com.sagt.PDFGenerator");
 	
 	public ByteArrayOutputStream sagtCreatePDF(String empNo, String empNoKey){
 		
