@@ -1,5 +1,5 @@
 package com.sagt.Util;
-dddddddddd
+
 public class PdfIUtil {
 	public static String RepaymentType[] = {"Equated","Step-up","Grace Period","Bullet"};
 
